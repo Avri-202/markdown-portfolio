@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below there is **list of my skills**:
+## *AWS*
+- EC2
+- VPC
+- S3
+- Cost managment
+### *Collabration*
+1. github
+2. git
+3. TFS
